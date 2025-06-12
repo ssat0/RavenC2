@@ -1,4 +1,7 @@
 # Raven C2
+<p align="center">
+  <img src="raven.webp" alt="Raven C2 Logo" width="300"/>
+</p>
 
 **Raven** is a lightweight, cross-platform Command & Control (C2) framework written in **Golang**. It supports **Windows**, **Linux**, and **macOS**, and is designed for red team operations and post-exploitation scenarios.
 
